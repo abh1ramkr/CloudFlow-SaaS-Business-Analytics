@@ -6,10 +6,6 @@ CloudFlow transforms six Parquet datasets into a structured analytical model and
 
 ---
 
-## Dashboard Preview
-
-
-
 ## Project Overview
 
 CloudFlow represents a fictional subscription-based Software-as-a-Service (SaaS) business. The project focuses on understanding how the business acquires customers, generates recurring revenue, manages invoices, collects payments, and retains paying organizations.
